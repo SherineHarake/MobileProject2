@@ -2,7 +2,6 @@ import 'package:flutter/material.dart';
 import 'package:http/http.dart' as http;
 import 'dart:convert';
 import 'loginregister.dart';
-import 'checkout.dart';
 import 'order.dart';
 
 class Login extends StatefulWidget {
